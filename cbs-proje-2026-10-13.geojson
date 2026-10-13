@@ -1,0 +1,273 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00270693983737,
+          41.89161604220536
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:20:04.911Z",
+        "style": {
+          "fillColor": "#00ffff",
+          "strokeColor": "#000000",
+          "strokeWidth": 3,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 10,
+          "labelField": "name",
+          "textSize": 16,
+          "textColor": "#00ffff"
+        },
+        "name": "Belediye binası",
+        "date": "",
+        "layerType": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.0027073330358,
+              41.89209150424426
+            ],
+            [
+              33.00282069978542,
+              41.891261779093526
+            ],
+            [
+              33.00315433879257,
+              41.891404881073385
+            ],
+            [
+              33.00313303966874,
+              41.89211523195567
+            ],
+            [
+              33.0027073330358,
+              41.89209150424426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:22:17.862Z",
+        "style": {
+          "fillColor": "#00ff00",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.27,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 14,
+          "textColor": "#00ffff"
+        },
+        "name": "Meydan",
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.00267452459019,
+              41.89211334467785
+            ],
+            [
+              33.003108526377275,
+              41.892127461765256
+            ],
+            [
+              33.00311591636185,
+              41.89224444241461
+            ],
+            [
+              33.002733306779106,
+              41.892266136238675
+            ],
+            [
+              33.00267452459019,
+              41.89211334467785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:23:44.412Z",
+        "style": {
+          "fillColor": "#ff00ff",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 12,
+          "textColor": "#00ffff"
+        },
+        "name": "Taksi durağı",
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00406523233664,
+          41.891978855433194
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:24:35.936Z",
+        "style": {
+          "fillColor": "#00ffff",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 11.5,
+          "labelField": "name",
+          "textSize": 21,
+          "textColor": "#ff0000"
+        },
+        "name": "Cami",
+        "date": "",
+        "layerType": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.002709175177756,
+              41.89107051750625
+            ],
+            [
+              33.00291978629059,
+              41.8911458181247
+            ],
+            [
+              33.00291039873562,
+              41.89126526648184
+            ],
+            [
+              33.002665617964254,
+              41.891200876892185
+            ],
+            [
+              33.002709175177756,
+              41.89107051750625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:26:34.399Z",
+        "style": {
+          "fillColor": "#ffff00",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 12,
+          "textColor": "#0000ff"
+        },
+        "name": "Belediye Dolmuş Durağı",
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.002928922392385,
+            41.89134545833787
+          ],
+          [
+            33.00301261135829,
+            41.89126493568122
+          ],
+          [
+            33.003133335661744,
+            41.89131892189317
+          ],
+          [
+            33.003287561308866,
+            41.891400946234256
+          ],
+          [
+            33.00344979923332,
+            41.891456740298054
+          ],
+          [
+            33.00371913342974,
+            41.89151276862606
+          ],
+          [
+            33.003929509412984,
+            41.891561799364354
+          ],
+          [
+            33.00416603618615,
+            41.891580960053176
+          ],
+          [
+            33.004395938521725,
+            41.89160869192176
+          ],
+          [
+            33.004435749539795,
+            41.89170788220227
+          ],
+          [
+            33.00433117857739,
+            41.89190267036244
+          ],
+          [
+            33.00427613351346,
+            41.892073035957594
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:27:40.813Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#0000ff",
+          "strokeWidth": 5.5,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 10,
+          "textColor": "#ffff00"
+        },
+        "name": "Cami Gitme Yolu",
+        "date": "",
+        "layerType": "line"
+      }
+    }
+  ]
+}
