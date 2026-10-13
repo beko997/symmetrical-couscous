@@ -1,0 +1,490 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00270693983737,
+          41.89161604220536
+        ]
+      },
+      "properties": {
+        "name": "Belediye binası",
+        "description": "createdAt: 2026-10-13T15:20:04.911Z\nstyle: [object Object]",
+        "style": {
+          "fillColor": "#00ffff",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 17.5,
+          "labelField": "name",
+          "textSize": 17,
+          "textColor": "#00ffff"
+        },
+        "date": "",
+        "layerType": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.0027073330358,
+              41.89209150424426
+            ],
+            [
+              33.00282069978542,
+              41.891261779093526
+            ],
+            [
+              33.00315433879257,
+              41.891404881073385
+            ],
+            [
+              33.00313303966874,
+              41.89211523195567
+            ],
+            [
+              33.0027073330358,
+              41.89209150424426
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Meydan",
+        "description": "createdAt: 2026-10-13T15:22:17.862Z\nstyle: [object Object]",
+        "style": {
+          "fillColor": "#ff00ff",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 17,
+          "textColor": "#00ff00"
+        },
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.00267452459019,
+              41.89211334467785
+            ],
+            [
+              33.003108526377275,
+              41.892127461765256
+            ],
+            [
+              33.00311591636185,
+              41.89224444241461
+            ],
+            [
+              33.002733306779106,
+              41.892266136238675
+            ],
+            [
+              33.00267452459019,
+              41.89211334467785
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Taksi durağı",
+        "description": "createdAt: 2026-10-13T15:23:44.412Z\nstyle: [object Object]",
+        "style": {
+          "fillColor": "#00ff00",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 15,
+          "textColor": "#ff0000"
+        },
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00406523233664,
+          41.891978855433194
+        ]
+      },
+      "properties": {
+        "name": "Cami",
+        "description": "createdAt: 2026-10-13T15:24:35.936Z\nstyle: [object Object]",
+        "style": {
+          "fillColor": "#00ffff",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 16,
+          "labelField": "name",
+          "textSize": 30,
+          "textColor": "#ff0000"
+        },
+        "date": "",
+        "layerType": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.002709175177756,
+              41.89107051750625
+            ],
+            [
+              33.00291978629059,
+              41.8911458181247
+            ],
+            [
+              33.00291039873562,
+              41.89126526648184
+            ],
+            [
+              33.002665617964254,
+              41.891200876892185
+            ],
+            [
+              33.002709175177756,
+              41.89107051750625
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Belediye Dolmuş Durağı",
+        "description": "createdAt: 2026-10-13T15:26:34.399Z\nstyle: [object Object]",
+        "style": {
+          "fillColor": "#ff0000",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 0.3,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 22,
+          "textColor": "#ffff00"
+        },
+        "date": "",
+        "layerType": "polygon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.002928922392385,
+            41.89134545833787
+          ],
+          [
+            33.00301261135829,
+            41.89126493568122
+          ],
+          [
+            33.003133335661744,
+            41.89131892189317
+          ],
+          [
+            33.003287561308866,
+            41.891400946234256
+          ],
+          [
+            33.00344979923332,
+            41.891456740298054
+          ],
+          [
+            33.00371913342974,
+            41.89151276862606
+          ],
+          [
+            33.003929509412984,
+            41.891561799364354
+          ],
+          [
+            33.00416603618615,
+            41.891580960053176
+          ],
+          [
+            33.004395938521725,
+            41.89160869192176
+          ],
+          [
+            33.004435749539795,
+            41.89170788220227
+          ],
+          [
+            33.00433117857739,
+            41.89190267036244
+          ],
+          [
+            33.00427613351346,
+            41.892073035957594
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cami Gitme Yolu",
+        "description": "createdAt: 2026-10-13T15:27:40.813Z\nstyle: [object Object]",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#0000ff",
+          "strokeWidth": 6.5,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 23,
+          "textColor": "#ffff00"
+        },
+        "date": "",
+        "layerType": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.002874191223555,
+            41.89205182681016
+          ],
+          [
+            33.00285688370985,
+            41.89217790046507
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:51:23.373Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#ff00ff",
+          "strokeWidth": 5,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "name",
+          "textSize": 15,
+          "textColor": "#ffff00"
+        },
+        "name": "Taksiye gitme yolu",
+        "date": "",
+        "layerType": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.00302232817788,
+          41.89233239497787
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:52:42.546Z",
+        "style": {
+          "fillColor": "#ff0000",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 10.5,
+          "labelField": "name",
+          "textSize": 21,
+          "textColor": "#ff00ff"
+        },
+        "name": "Güven Kasap",
+        "date": "",
+        "layerType": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.00523166210817,
+            41.89271494775403
+          ],
+          [
+            33.00495400309839,
+            41.892564252744904
+          ],
+          [
+            33.00451534142732,
+            41.892405972644724
+          ],
+          [
+            33.004295087939084,
+            41.89231613797779
+          ],
+          [
+            33.00395690109352,
+            41.892248462161916
+          ],
+          [
+            33.003712872581474,
+            41.89224319454942
+          ],
+          [
+            33.003474440635955,
+            41.89223848542599
+          ],
+          [
+            33.003164175973836,
+            41.89223721042356
+          ],
+          [
+            33.00265704816502,
+            41.892269302215254
+          ],
+          [
+            33.00242057327267,
+            41.89236445093502
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T15:58:59.748Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#ffff00",
+          "strokeWidth": 4.5,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "",
+          "textSize": 12,
+          "textColor": "#111827"
+        },
+        "name": "Yol",
+        "date": "",
+        "layerType": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.003270713857745,
+            41.89116432225197
+          ],
+          [
+            33.003207134095106,
+            41.891354485686804
+          ],
+          [
+            33.00302095083342,
+            41.89129149899554
+          ],
+          [
+            33.00283330819167,
+            41.8912377056007
+          ],
+          [
+            33.00257134184562,
+            41.89115251608541
+          ],
+          [
+            33.00239455300391,
+            41.89116182236995
+          ],
+          [
+            33.002231086878055,
+            41.89116608612417
+          ],
+          [
+            33.002033976580634,
+            41.891145639532624
+          ],
+          [
+            33.00186014486363,
+            41.891141408977205
+          ],
+          [
+            33.00183553369436,
+            41.89121915907856
+          ]
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T16:00:47.087Z",
+        "style": {
+          "fillColor": "#18181B",
+          "strokeColor": "#ff0000",
+          "strokeWidth": 5.5,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 5,
+          "labelField": "",
+          "textSize": 12,
+          "textColor": "#111827"
+        },
+        "name": "Yol 2",
+        "date": "",
+        "layerType": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.001881274064345,
+          41.89130508475705
+        ]
+      },
+      "properties": {
+        "createdAt": "2026-10-13T16:01:10.685Z",
+        "style": {
+          "fillColor": "#00ffff",
+          "strokeColor": "#111111",
+          "strokeWidth": 2,
+          "opacity": 1,
+          "strokeOpacity": 1,
+          "radius": 13.5,
+          "labelField": "name",
+          "textSize": 25,
+          "textColor": "#00ffff"
+        },
+        "name": "BİM",
+        "date": "",
+        "layerType": "point"
+      }
+    }
+  ]
+}
